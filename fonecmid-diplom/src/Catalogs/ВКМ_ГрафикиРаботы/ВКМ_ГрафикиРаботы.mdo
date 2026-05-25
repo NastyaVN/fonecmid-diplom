@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="93215855-6127-41da-a9cb-7cdbf1a43b2d">
+  <producedTypes>
+    <objectType typeId="a82c0019-e5f7-4e06-b6c9-710bd50caa6d" valueTypeId="246af628-9fa2-4790-80e5-ad4abda2eeb5"/>
+    <refType typeId="2e645469-75bc-451e-878b-adc5634a7068" valueTypeId="9b27310d-996d-4eec-b58b-1783f3af8c5f"/>
+    <selectionType typeId="8e67faa1-61a8-45a8-8b1a-92f5780ab39c" valueTypeId="15637780-23c8-4371-9bdc-9dc492667112"/>
+    <listType typeId="00e097a5-f408-470a-8fb5-44b51c1ae95e" valueTypeId="1c4f93e5-7413-485d-b6af-5583057d426c"/>
+    <managerType typeId="a2958e29-7179-48ed-acf8-287dad6d97d5" valueTypeId="99a2dca7-9c15-40a2-a55b-1fb8ef167288"/>
+  </producedTypes>
+  <name>ВКМ_ГрафикиРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Графики работы</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined>
+    <items id="ef0913c7-60d1-4492-9696-d47ea0146e4f">
+      <name>Отпуск</name>
+      <description>Отпуск</description>
+      <code xsi:type="core:StringValue">
+        <value>000000001</value>
+      </code>
+    </items>
+  </predefined>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
