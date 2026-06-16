@@ -327,7 +327,6 @@
       <name>ОтпускаСотрудниковКоманднаяПанель</name>
       <id>12</id>
       <horizontalAlign>Left</horizontalAlign>
-      <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
       <name>ОтпускаСотрудниковСтрокаПоиска</name>
@@ -730,7 +729,6 @@
     <name>ФормаКоманднаяПанель</name>
     <id>-1</id>
     <horizontalAlign>Left</horizontalAlign>
-    <autoFill>true</autoFill>
   </autoCommandBar>
   <handlers>
     <event>OnCreateAtServer</event>

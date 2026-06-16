@@ -33,6 +33,13 @@
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <predefined>
+    <items id="970d563c-1ddf-42d1-9ab2-f2509916073a">
+      <name>Надбавка</name>
+      <description>Надбавка</description>
+      <code xsi:type="core:StringValue">
+        <value>2</value>
+      </code>
+    </items>
     <items id="94594f61-95c2-4684-88c7-c6455ec1c1dc">
       <name>Премия</name>
       <description>Премия</description>

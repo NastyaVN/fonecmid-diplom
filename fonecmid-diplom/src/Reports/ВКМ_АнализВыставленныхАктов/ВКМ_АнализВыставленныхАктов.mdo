@@ -19,4 +19,11 @@
     </synonym>
     <templateType>DataCompositionSchema</templateType>
   </templates>
+  <templates uuid="ddc9c7a9-efff-4d20-b849-826974699915">
+    <name>отчет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отчет</value>
+    </synonym>
+  </templates>
 </mdclass:Report>

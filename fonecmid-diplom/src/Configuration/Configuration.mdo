@@ -20,7 +20,7 @@
   <defaultRoles>Role.АдминистраторСистемы</defaultRoles>
   <defaultRoles>Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</defaultRoles>
   <vendor>ООО Нетология</vendor>
-  <version>1.0.1.4</version>
+  <version>1.0.2.0</version>
   <reportsVariantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</reportsVariantsStorage>
   <defaultReportForm>CommonForm.ФормаОтчета</defaultReportForm>
   <defaultReportVariantForm>CommonForm.ФормаВариантаОтчета</defaultReportVariantForm>
@@ -631,6 +631,9 @@
   <roles>Role.ВКМ_ОбслуживаниеКлиентовДобавлениеИзменение</roles>
   <roles>Role.ВКМ_МассовоеСозданиеРеализаций</roles>
   <roles>Role.ВКМ_ЗарплатаИКадры</roles>
+  <roles>Role.ВКМ_ФизическиеЛицаЧтение</roles>
+  <roles>Role.ВКМ_ФизическиеЛицаДобавлениеИзменение</roles>
+  <roles>Role.ВКМ_ОбслуживаниеКлиентовДобавлениеФайлов</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
@@ -1061,6 +1064,8 @@
   <commandGroups>CommandGroup.Печать</commandGroups>
   <commandGroups>CommandGroup.ВКМ_Документы</commandGroups>
   <commandGroups>CommandGroup.ВКМ_Справочники</commandGroups>
+  <commandGroups>CommandGroup.ВКМ_РегистрыСведений</commandGroups>
+  <commandGroups>CommandGroup.ВКМ_СмТакже</commandGroups>
   <constants>Constant.АвтоматическиНастраиватьРазрешенияВПрофиляхБезопасности</constants>
   <constants>Constant.АдресПубликацииИнформационнойБазыВИнтернете</constants>
   <constants>Constant.ГлавныйУзел</constants>

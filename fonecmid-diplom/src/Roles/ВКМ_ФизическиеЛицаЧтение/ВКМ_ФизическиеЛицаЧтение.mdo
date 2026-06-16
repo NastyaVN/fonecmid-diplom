@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1130d617-e10b-4d86-8a8c-66e4dff9fb30">
+  <name>ВКМ_ФизическиеЛицаЧтение</name>
+  <synonym>
+    <key>ru</key>
+    <value>Физические лица чтение</value>
+  </synonym>
+</mdclass:Role>
